@@ -345,7 +345,7 @@ ai:
 
   api_key: "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"                       # API Key（建议使用环境变量 AI_API_KEY）
   
-  api_base: "https://integrate.api.nvidia.com"                      # 自定义 API 地址（可选，绝大多数情况留空即可）
+  api_base: "https://integrate.api.nvidia.com/v1"                      # 自定义 API 地址（可选，绝大多数情况留空即可）
                                     #
                                     # ❓ 什么时候需要填？
                                     #    当你使用的 AI 服务商不在上方支持列表中时。
